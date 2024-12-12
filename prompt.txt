@@ -1,0 +1,5 @@
+prompt:****, 1girl, solo, long hair, white hair, masterpiece, full shot, (sitting, sitting in blood, waruza), particles, reflections, petals, rose petals, reflections on blood, dramatic light, (blood, blood pool), red dress, simple background
+neg:(worst_quality:1.6 low_quality:1.6) monochrome (zombie sketch interlocked_fingers comic) (hands) text signature logo
+w:769
+h:1024
+cfg:7
